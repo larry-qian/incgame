@@ -1,0 +1,11 @@
+body {
+    background-color: #1b1c1b;
+    font-family: "Sarpanch", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#title-header {
+    color: lightgray;
+    text-align: center;
+}
