@@ -5,7 +5,17 @@ body {
     font-style: normal;
 }
 
+.centertext {
+    text-align: center;
+    color: lightgray;
+}
+
 #title-header {
     color: lightgray;
     text-align: center;
+}
+
+#manualbutton {
+    display: flex;
+    justify-content: center;
 }
